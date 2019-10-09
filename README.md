@@ -6,6 +6,6 @@
 ##### https://www.erlang.org/downloads (baixar binary file)
 ### Download RabbitMQ 
 ##### https://www.rabbitmq.com/download.html
-### Executar comando
+### Instalar Cliente Python pika
 ##### pip install pika
 
