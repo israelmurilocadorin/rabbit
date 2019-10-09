@@ -4,5 +4,5 @@
 
 ### Pré requisitos:
 #### Download OTP - https://www.erlang.org/downloads (baixar binary file)
-#### Download RabbitMq - https://www.rabbitmq.com/download.html
+#### Download RabbitMQ - https://www.rabbitmq.com/download.html
 
