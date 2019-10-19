@@ -7,5 +7,6 @@
 ### Download RabbitMQ 
 ##### https://www.rabbitmq.com/download.html
 ### Instalar Cliente Python pika
-##### pip install pika
-
+```bash    
+pip install pika
+```
