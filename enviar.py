@@ -12,3 +12,5 @@ channel.basic_publish(exchange='', routing_key='ola', body='Hello World!')
 print("[x] Enviado 'Hello World!'")
 connection.close()
 
+
+
